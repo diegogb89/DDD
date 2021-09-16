@@ -1,2 +1,2 @@
-# DDD
+# Projeto prático DDD
 Curso DDD
